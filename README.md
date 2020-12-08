@@ -1,6 +1,6 @@
 # App: Reader
 
-## [Try this App on GithubPages]https://eugenewolf507.github.io/goit-react-hw-04-reader/).
+## [Try this App on GithubPages](https://eugenewolf507.github.io/goit-react-hw-04-reader/).
 
 ## Tech stack:
 
